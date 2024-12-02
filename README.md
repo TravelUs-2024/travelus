@@ -2,7 +2,8 @@
 
 ### AI 기술 기반의 해외여행 모임통장 서비스
 
-![main](/uploads/e4f48c8869bfd1deca335ff2eb480928/main.png)
+![main](https://github.com/user-attachments/assets/ee0604bf-30b5-4613-8f83-88b13bb1011f)
+
 
 - 배포 링크: https://j11d209.p.ssafy.io
 - 모바일 기반의 PWA를 적용한 어플리케이션이기 때문에 모바일 환경에서 사용을 권장합니다.
